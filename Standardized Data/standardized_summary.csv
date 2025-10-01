@@ -1,0 +1,7 @@
+File,Shape,Num_Features,Num_Patients,NaN_Total,NaN_Percentage,Value_Range,Mean_Per_Feature,Std_Per_Feature
+Mutation (Gene level)_standardized.csv,"(12602, 291)",12602,291,0,0.0,"(0, 1)",0.018620292093493043,0.12106938925943164
+"Methylation (Gene level, HM450K)_standardized.csv","(20115, 291)",20115,291,2840,0.048518270801995056,"(-0.5, 0.5)",-0.042900151081467365,0.08912499045001615
+"RNAseq (HiSeq, Gene level)_standardized.csv","(19988, 291)",19988,291,0,0.0,"(0.0, 20.3817)",6.687766774549266,0.9733600225481405
+"miRNA (HiSeq, miRgene level)_standardized.csv","(809, 291)",809,291,0,0.0,"(0.0, 19.4342)",2.400576332836347,0.6550524598794223
+"SCNV (Gene level, log-ratio)_standardized.csv","(24776, 291)",24776,291,0,0.0,"(-1.293, 3.657)",0.03367382163428304,0.3093518682866581
+RPPA (Gene Level)_standardized.csv,"(174, 291)",174,291,1976,3.902516095903938,"(-5.1619, 7.9047)",0.040976397335264786,0.4553939182393279
