@@ -1,2 +1,2 @@
 This folder contained the ready-to-use harmonized set of standerdized data with only unique set of 291 patient cohort.
-  
+The data here was in baseline analysis process of combinational affect of gene level data in patient survival.
