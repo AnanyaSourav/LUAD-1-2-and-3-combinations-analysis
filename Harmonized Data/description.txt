@@ -1,0 +1,2 @@
+This folder contained the ready-to-use harmonized set of standerdized data with only unique set of 291 patient cohort.
+  
